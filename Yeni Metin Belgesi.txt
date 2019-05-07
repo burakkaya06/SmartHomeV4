@@ -1,0 +1,5 @@
+Sunucu ftp adresi : api.goldgym.pro
+user : apiuser
+pass : 83Fj!x3a
+
+    
